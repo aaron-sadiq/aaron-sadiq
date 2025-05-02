@@ -80,12 +80,12 @@ Greetings! I'm Aaron a passionate Full Stack Developer with 7+ years of experien
 
 ### 📌 Key Achievements
 
-- 🚀 Built and launched 10+ production-grade Laravel + Vue.js apps  
-- 🧱 Re-engineered legacy codebases for better scalability and performance  
-- 🎨 Transformed complex Figma designs into responsive frontends  
-- ⚡ Reduced page load time by up to 50% with performance optimization  
-- 🔗 Developed RESTful and GraphQL APIs to power modern SPAs  
-- 🔄 Set up CI/CD pipelines to automate deployment and testing workflows  
+🚀 Built and launched 10+ production-grade Laravel + Vue.js apps  
+🧱 Re-engineered legacy codebases for better scalability and performance  
+🎨 Transformed complex Figma designs into responsive frontends  
+⚡ Reduced page load time by up to 50% with performance optimization  
+🔗 Developed RESTful and GraphQL APIs to power modern SPAs  
+🔄 Set up CI/CD pipelines to automate deployment and testing workflows  
 
 ---
 
@@ -102,17 +102,6 @@ Greetings! I'm Aaron a passionate Full Stack Developer with 7+ years of experien
 
 ---
 
-### 💬 Let’s Collaborate
-
-I bring creativity, reliability, and attention to detail to every project. Whether you're a startup or an established business, I can help you ship high-quality software—**on time and stress-free**.
-
-📫 **Email**: [aaron.dev@gmail.com](mailto:aaron.dev@gmail.com)  
-📍 **Location**: Lahore, PK  
-🔗 **LinkedIn**: [linkedin.com/in/aaron-dev](https://linkedin.com/in/aaron-dev)  
-🐙 **GitHub**: [github.com/aaron-devhub](https://github.com/aaron-devhub)
-
-
----
 
 ## 🚀 Discover Aaron's Latest Projects
 
