@@ -13,6 +13,19 @@ Greetings! I'm Aaron a passionate Full Stack Developer with 7+ years of experien
 
 ---
 
+### Contact Me
+
+<a href="https://www.upwork.com/freelancers/~01a6712df393f39b22" target="_blank">
+  <img src="https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork">
+</a> 
+&nbsp;
+<a href="mailto:aaronsadiq284@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+
+---
+
 # 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
